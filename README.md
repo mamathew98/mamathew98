@@ -92,6 +92,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mamathew98&theme=dark)](https://git.io/streak-stats)
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=mamathew98&rank=SECRET,S,SS,SSS,AAA,AA,A,BBB,BB,B,CCC,CC,C&theme=flat&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mamathew98&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
