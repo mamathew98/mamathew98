@@ -43,7 +43,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :seedling: I'm also a Master's student Exploring and researching in fields of data science and machine learning.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mo-naseri/) [![Gmail Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/mo-naseri/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mo-naseri/) [![Gmail Badge](https://img.shields.io/badge/-Naseri-red?style=flat&logo=Gmail&logoColor=white)](mailto:mohammad.naseri98711@gmail.com)
 
 ---
 
