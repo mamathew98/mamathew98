@@ -39,11 +39,11 @@ You can click the Preview link to take a look at your changes.
 
 ### :man_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
-- :telescope: I’m working as a Web Developer and contributing to frontend and backend for building web and mobile applications.
+- :telescope: I have experience woking as a Web Developer and I contributed to frontend and backend development for building web and mobile applications.
 
-- :seedling: Exploring data science and machine learning world.
+- :seedling: I'm also a Master's student Exploring and researching in fields of data science and machine learning.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mo-naseri/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mo-naseri/) [![Gmail Badge](https://img.shields.io/badge/-Naseri-blue?style=flat&logo=Gmail&logoColor=white)](https://www.linkedin.com/in/mo-naseri/)
 
 ---
 
